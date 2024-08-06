@@ -2,4 +2,4 @@
 차 종류
 1. 카니발
 2. celtos
-3. sportage 를 추가합니다.
+3. sportage를 추가합니다.
